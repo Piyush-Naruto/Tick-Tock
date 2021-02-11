@@ -9,7 +9,7 @@ function draw() {
  
   fill("brown");
   textSize(28);
-  text("...<<clock by coding>>... ", 100,400); 
+  text("...Tick-Tock... ", 100,400); 
 
   translate(200,200)
   rotate (-90);
